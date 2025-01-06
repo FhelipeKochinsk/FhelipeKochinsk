@@ -1,8 +1,10 @@
+
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="kita-ikuyo-rap.webp" alt="Banner" style="border-radius:10px">
+    <img src="kita-ikuyo-rap.webp" alt="Banner"">
   </a>
 </p>
+
 
 <h1 align="center">Hi, I'm Fhelipe Koch!</h1>
 <p align="center">
