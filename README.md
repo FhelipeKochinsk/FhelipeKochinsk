@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**FhelipeKochinsk/FhelipeKochinsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fhelipe-kochinski-sant-ana/">
+    <img src="jujutsu-kaisen-shibuya-arc-sukuna-shibuya-arc.webp" alt="Banner">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+</p>
+<h3 align="center">Welcome to my profile! (〜￣▽￣)〜</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm currently working on my FullStack knowledge.</p>
+
+<p align="center">
+    <strong><a href="">Discord</a></strong> |
+    <strong><a href="https://www.linkedin.com/in/fhelipe-kochinski-sant-ana/">LinkedIn</a></strong> |
+    <strong><a href="mailto:fhelipekoch@outlook.com">Email</a></strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FhelipeKochinsk"><img src="https://github-readme-stats.vercel.app/api?username=fhelipekochinsk&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
+</p>
