@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  # **`Fhelipe Kochinski`**
+  # **`Dev. FullStack & Designer`**
   
-  **`💾 | Dev FullStack`**
+  **`💾 | Sobre Mim`**
 
   Sou um desenvolvedor que começou sua carreira no front-end e design, mas logo decidi expandir meus conhecimentos para o back-end, com o objetivo de me tornar um desenvolvedor full-stack. Iniciei meus estudos com JavaScript e PHP, e atualmente estou me aprofundando em Python, React.js e Node.js. Também possuo uma sólida base em UI/UX, buscando sempre criar experiências de usuário.
   
