@@ -121,7 +121,7 @@
 
 **`✉️ | Contato`**
 
-<a href="[https://www.behance.net/fhelipekochinski">
+<a href="https://www.behance.net/fhelipekochinski">
   <img 
       align="left" 
       alt="HTML"
